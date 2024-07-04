@@ -8,7 +8,6 @@ class Solution:
                         memory_row.append(i[j])
                     else: return False
         
-            
         for k in range(0,9):
             memory_column = []
             for l in board:
